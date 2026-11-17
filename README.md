@@ -30,7 +30,7 @@ Now fully cleaned up with a clean CLI, file I/O, and proper error handling.
 
 ```bash
 
-git  clone  https://github.com/WhatAmIDoingYo/Equation-Based-Shift-Cipher.git
+git  clone  https://github.com/dgluchowski/Equation-Based-Shift-Cipher.git
 
 cd  Equation-Based-Shift-Cipher
 
